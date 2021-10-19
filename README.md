@@ -6,7 +6,7 @@ It is a DBMS based full Stack MERN application.
 ## Live URL
 I deployed frontned in [netlify](https://www.netlify.com/). Live URL of my website is [here](https://mern-memories-bynusrat.netlify.app/)
 I deployed backend in [heroku](https://id.heroku.com/).
-For database I have used MONGODB.
+For database I have used MOngoDB(Atlas).
 
 ## Table of contents
 * [General info](#general-info)
