@@ -2,6 +2,7 @@
 
 It is a DBMS based full Stack MERN application. 
 
+![Title](https://github.com/nusrat35/MERN_memories/blob/master/client/public/title.PNG "Title image")
 
 ## Live URL
 I deployed frontned in [netlify](https://www.netlify.com/). Live URL of my website is [here](https://mern-memories-bynusrat.netlify.app/)
